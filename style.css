@@ -44,3 +44,7 @@ body
     background-color: yellowgreen;
     border: yellow solid 1px;
 }
+
+.modal-dialog{
+    width: 90%;
+}
